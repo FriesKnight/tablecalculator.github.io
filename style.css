@@ -1,0 +1,31 @@
+/* OCD purposes */
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+caption {
+    text-align: center;
+    padding: 20px;
+    text-decoration-color: blueviolet;
+}
+table {
+    
+    width: 50%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+th, td {
+    padding: 8px;
+    text-align: center;
+}
+
+caption {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+}
